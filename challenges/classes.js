@@ -34,3 +34,4 @@ const cube = new CubeMaker(5, 5, 5);
 
 console.log(cube.volume());
 console.log(cube.surfaceArea());
+
